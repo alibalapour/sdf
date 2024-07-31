@@ -27,7 +27,7 @@
 #ifndef SDF_SDF_F15B6437_01FD_4DBE_AB0D_BC1EE8ACC4C4
 #define SDF_SDF_F15B6437_01FD_4DBE_AB0D_BC1EE8ACC4C4
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <cstdint>
 
 #include <memory>
