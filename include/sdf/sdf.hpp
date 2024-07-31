@@ -36,7 +36,7 @@
 #ifdef __GNUC__
 #include <experimental/propagate_const>
 #endif
-#include <Eigen/Geometry>
+#include <eigen3/Eigen/Geometry>
 
 namespace sdf {
 
